@@ -1,1 +1,21 @@
-# ETL-Project
+# ETL-Project Proposal
+
+Group members:
+* Lakshmi Prasanna Rangam
+* Ju A Han
+
+### About the project:
+The recession in US during the pandemic resulted in millions of Americans losing their jobs and livelihoods. Losing jobs during crisis can lead to losing their health insurance. From this incident, we noticed that the unemployment rate, the recession, and the health insurance coverage can be closely related not only during the covid-19 crisis, but also in general. We collected these three types of data for year 2017 and 2018 in order to see the change in rates in 50 states.
+
+### About the Data Collection:
+In this project, we collected the unemployment rate, GDP growth rate, and the health insurance coverage rate by state from the following websites:
+* Health Insurance Coverage: https://www.census.gov/data-tools/demo/sahie/#/
+* Unemployment rate: https://www.bls.gov/lau/lastch18.htm
+* GDP growth rate: https://apps.bea.gov/iTable/iTable.cfm?reqid=70&step=1&isuri=1&acrdn=5#reqid=70&step=1&isuri=1&acrdn=5
+
+### Proposed Workflow:
+* Collect csv files of health insurance data and gdp growth data
+* Retrieve the unemployment table from the url and convert to csv file
+* Combine different data into one table (csv files)
+* Clean-up the table, include data for only 50 states, and include the required columns.
+* Use either postresql or mongodb to put the data into a database.
