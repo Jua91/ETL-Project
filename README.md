@@ -18,4 +18,4 @@ In this project, we collected the unemployment rate, GDP growth rate, and the he
 * Retrieve the unemployment table from the url and convert to csv file
 * Combine different data into one table (csv files)
 * Clean-up the table, include data for only 50 states, and include the required columns.
-* Use either postresql or mongodb to put the data into a database.
+* Use either postresql or mongodb to put the data into a database.# ETL-Project
