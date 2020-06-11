@@ -10,8 +10,8 @@ The recession in US during the pandemic resulted in millions of Americans losing
 ### About the Data Collection:
 In this project, we collected the unemployment rate, GDP growth rate, and the health insurance coverage rate by state from the following websites:
 * Health Insurance Coverage: https://www.census.gov/data-tools/demo/sahie/#/
-* Unemployment rate: https://www.bls.gov/lau/lastch18.htm
-* GDP growth rate: https://apps.bea.gov/iTable/iTable.cfm?reqid=70&step=1&isuri=1&acrdn=5#reqid=70&step=1&isuri=1&acrdn=5
+* Unemployment rate: https://www.bls.gov/lau/#cntyaa
+* GDP growth rate: https://www.bea.gov/data/gdp/gdp-county-metro-and-other-areas
 
 ### Proposed Workflow:
 * Collect csv files of health insurance data and gdp growth data
