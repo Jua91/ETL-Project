@@ -18,4 +18,4 @@ In this project, we collected the unemployment rate, GDP growth rate, and the he
 * Clean-up the table, and include the required columns.
 * Use either postresql to put the data into a database.
     * Create a table and columns in postgresql
-* Use SQLAlchemy to load the result
+* Use SQLAlchemy to load the result# ETL-Project
