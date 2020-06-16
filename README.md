@@ -14,8 +14,7 @@ In this project, we collected the unemployment rate, GDP growth rate, and the he
 * GDP growth rate: https://www.bea.gov/data/gdp/gdp-county-metro-and-other-areas
 
 ### Proposed Workflow:
-* Collect csv files of health insurance data and gdp growth data
-* Retrieve the unemployment table from the url and convert to csv file
-* Combine different data into one table (csv files)
-* Clean-up the table, include data for only 50 states, and include the required columns.
-* Use either postresql or mongodb to put the data into a database.# ETL-Project
+* Collect csv files
+* Clean-up the table, and include the required columns.
+* Use either postresql to put the data into a database.
+    * Create a table and columns in postgresql
