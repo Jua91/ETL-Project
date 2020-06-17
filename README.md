@@ -19,3 +19,5 @@ In this project, we collected the unemployment rate, GDP growth rate, and the he
 * Use either postresql to put the data into a database.
     * Create a table and columns in postgresql
 * Use SQLAlchemy to load the result
+
+The raw csv files can be assessed here: https://drive.google.com/drive/folders/1I5yxTPdZc4pCLtVihEqZBiqAWcUw2HVe
